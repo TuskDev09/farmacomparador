@@ -71,8 +71,8 @@ APT_Test-APT/
 
 1. Clonar el repositorio:
    ```bash
-   git clone <url-del-repositorio>
-   cd APT_Test-APT
+   git clone https://github.com/TuskDev09/farmacomparador
+   cd farmacomparador
    ```
 
 2. Crear y activar un entorno virtual:
